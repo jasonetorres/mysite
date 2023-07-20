@@ -1305,6 +1305,7 @@ input, select, textarea {
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
 		overflow-y: scroll;
+		zoom: 92%;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2025,7 +2026,7 @@ input, select, textarea {
 						top: 0;
 						left: 0;
 						width: 100%;
-						height: 100%;
+						height: 120%;
 						-moz-object-fit: cover;
 						-webkit-object-fit: cover;
 						-ms-object-fit: cover;
@@ -2180,9 +2181,31 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
+
 			#footer .copyright li {
 				padding-left: 0.5em;
 				margin-left: 0.5em;
 			}
-
-		}
+			#footer {
+				margin-top: 2.75em;
+				color: #B5A1A8;
+				text-align: center;
+				padding: 2em 0 0 0;
+				font-size: 1em;
+			}
+		
+				#footer a {
+				
+					color: #B5A1A8;
+					color: #B5A1A8;			
+				}
+				#footer a:hover {
+					color: #170420;
+				}
+				body {
+					background-image: url('images/bg.jpg');
+					background-attachment: fixed;
+					background-size: cover; /* Optional: Adjust the background size as needed */
+				  }
+				  
+				}
