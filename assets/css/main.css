@@ -2154,6 +2154,7 @@ input, select, textarea {
 			-webkit-transition: color .25s ease-in-out;
 			-ms-transition: color .25s ease-in-out;
 			transition: color .25s ease-in-out;
+			padding-right: 1em;
 		}
 
 			#footer a:hover {
@@ -2197,7 +2198,9 @@ input, select, textarea {
 				#footer a {
 				
 					color: #B5A1A8;
-					color: #B5A1A8;			
+					color: #B5A1A8;
+					font-size: xx-large;
+					padding-right: 1em;	
 				}
 				#footer a:hover {
 					color: #170420;
