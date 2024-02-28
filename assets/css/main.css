@@ -2191,7 +2191,7 @@ input, select, textarea {
 			}
 			#footer {
 				margin-top: 2.75em;
-				color: #B5A1A8;
+				color: #000000;
 				text-align: center;
 				padding: 2em 0 0 0;
 				font-size: 1em;
@@ -2199,8 +2199,8 @@ input, select, textarea {
 		
 				#footer a {
 				
-					color: #B5A1A8;
-					color: #B5A1A8;
+					color: #000000;
+					color: #000000;
 					font-size: xx-large;
 					padding-right: 1em;	
 				}
